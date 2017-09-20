@@ -1,32 +1,25 @@
-class_identifier,class_name,first_name,last_name,student_id, email
-"COM 530","APIs","Katie","Smith","A12891624","katie@gmail.com"
-"COM 530","APIs","Marrie","Wong","A20736455","marrie@gmail.com"
-"COM 530","APIs","Patt","Johnson","A12345679","patt@gmail.com"
-
 {
-  "roster": {
-    "class": {
-      "identifier" : "COM 530",
-      "name" : "APIs",
-      "instructor" : "Karl"
-    },
-    "students" : [
-      {
-      "first_name" : "Katie",
-      "last_name" : "Smith",
-      "student_id" : "A12891624",
-      "email" : "katie@gmail.com"
-    },{
-      "first_name" : "Marrie",
-      "last_name" : "Wong",
-      "student_id" : "A20736455",
-      "email" :  "marrie@gmail.com"
-    },{
-      "first_name" : "Patt",
-      "last_name" : "Johnson",
-      "student_id" : "A12345679",
-      "email" : "patt@gmail.com"
-    }
-   ]
+  "class": {
+    "identifier" : "COM 530",
+    "name" : "APIs",
+    "instructor" : "Karl"
+  },
+  "students" : [
+    {
+    "first_name" : "Katie",
+    "last_name" : "Smith",
+    "student_id" : "A12891624",
+    "email" : "katie@gmail.com"
+  },{
+    "first_name" : "Marrie",
+    "last_name" : "Wong",
+    "student_id" : "A20736455",
+    "email" :  "marrie@gmail.com"
+  },{
+    "first_name" : "Patt",
+    "last_name" : "Johnson",
+    "student_id" : "A12345679",
+    "email" : "patt@gmail.com"
   }
+ ]
 }
